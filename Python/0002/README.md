@@ -10,3 +10,6 @@ Descrição do problema. (Será postado um exercícios em breve)
 ``` python
 print('Hello, world!');
 ```
+
+#### Autor
+* Nome do contribuídor - [Perfil GitHub](https://github.com/username)

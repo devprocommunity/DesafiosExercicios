@@ -9,3 +9,5 @@ Entrar com um número e informar se ele é divisível por 10, por 5, por 2 ou se
 ``` PHP
 echo "Hello, World!";
 ```
+#### Autor
+* Nome do contribuídor - [Perfil GitHub](https://github.com/username)

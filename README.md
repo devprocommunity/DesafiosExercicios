@@ -13,7 +13,7 @@ Exercícios e desafios de programação para "fixar código", trabalhar lógica 
 * Todo e qualquer código deve ser bem documentado.
 * Faça de maneira como se estivesse ensinando um iniciante na linguagem *(Dessa forma você se exercita, pois, quando ensinamos aprendemos mais. **Técnica de estudo Feynman**)*
 * Certifique-se que a pasta esteja organizada. Veja abaixo:
-  * > DesafiosExercicios > PHP > Exercicio 1 > index.php e README.md
+  * **DesafiosExercicios > PHP > Exercicio 1 > index.php e README.md**
   * Faça comentários no código.
   * No arquivo README.md insira apenas um título com ```#titulo``` e um paragrafo descrevendo o que é o exercício.
   * Caso queira, pode adicionar um vídeo/Link mostrando o código funcionando.
