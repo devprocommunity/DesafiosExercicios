@@ -35,8 +35,11 @@ echo "[Link em MarkDown Carregando...](https://youtube.com/CanalDevProEmBreve)";
 ?>
 ```
 
-##### Cursos indicados    
+#### Cursos indicados    
 * * *
 
 [Curso de Git e GitHub **GRATUITO.**](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+
+[Curso de Git e GitHub **GRATUITO** - Sem terminal](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
 [Curso de Markdown **GRATUITO.**](https://www.udemy.com/course/aprenda-markdown/)
