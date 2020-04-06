@@ -11,7 +11,7 @@ Exercícios e desafios de programação para "fixar código", trabalhar lógica 
 ## Dicas e Regras DevPro
 
 * Todo e qualquer código deve ser bem documentado.
-* Faça de maneira como se estivesse ensinando um iniciante na linguagem * (Dessa forma você se exercita, pois, quando ensinamos aprendemos mais. **Técnica de estudo Feynman**)*
+* Faça de maneira como se estivesse ensinando um iniciante na linguagem *(Dessa forma você se exercita, pois, quando ensinamos aprendemos mais. **Técnica de estudo Feynman**)*
 * Certifique-se que a pasta esteja organizada. Veja abaixo:
   * > DesafiosExercicios > PHP > Exercicio 1 > index.php e README.md
   * Faça comentários no código.
@@ -22,6 +22,7 @@ Exercícios e desafios de programação para "fixar código", trabalhar lógica 
 ### **Objetivo**
 
 > Ajudar quem está com dificuldades para praticar, entender códigos, memorizar; para quem está iniciando.
+> Falando em vídeo sobre o objetivo (Vídeo temporario) [Clique aqui](https://www.loom.com/share/31457ba0916b48329389f017a8a2c90d)
 
 ##### Como colaborar aqui na prática?
 
@@ -38,10 +39,4 @@ echo "[Link em MarkDown Carregando...](https://youtube.com/CanalDevProEmBreve)";
 * * *
 
 [Curso de Git e GitHub **GRATUITO.**](https://www.udemy.com/course/git-e-github-para-iniciantes/)
-
 [Curso de Markdown **GRATUITO.**](https://www.udemy.com/course/aprenda-markdown/)
-
-
-
-
-
